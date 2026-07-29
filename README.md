@@ -4,6 +4,12 @@ A modern and fully responsive Flower Shop website built using **HTML, CSS, and J
 
 ---
 
+🌐 Live Demo
+
+Visit the website: https://ayushideshwal9.github.io/responsive-flower-website/
+
+---
+
 ## 📸 Screenshot
 
 ![Flower Website](screenshot.png)
